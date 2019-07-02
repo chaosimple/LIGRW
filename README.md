@@ -10,6 +10,8 @@ This repository contains the the code for the following paper. Please cite it if
   volume={6},
   pages={75531--75544},
   year={2018},
+  doi={10.1109/ACCESS.2018.2883681}, 
+  ISSN={2169-3536}, 
   publisher={IEEE}
 }
 ```
