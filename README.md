@@ -1,5 +1,5 @@
 # LIGRW
-This repository contains the the code for the following paper. Please cite it if you find the code helps.
+This repository contains the the source code for the following paper. Please cite it if you find the code helps.
 
 
 ```
@@ -15,3 +15,4 @@ This repository contains the the code for the following paper. Please cite it if
   publisher={IEEE}
 }
 ```
+
